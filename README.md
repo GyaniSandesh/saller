@@ -11,6 +11,6 @@
 ```bash
 git clone https://github.com/gyanisandesh/saller
 cd saller
-chmod +x archinstaller.sh
-./archinstaller.sh
+chmod +x saller.sh
+./saller.sh
 ```
